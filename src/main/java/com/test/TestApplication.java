@@ -13,6 +13,8 @@ public class TestApplication {
          system.out.println("sum =" + x+y);
          int z=50;
         system.out.println(z);
+         int m=33;
+        system.out.println(m);
 	public static void main(String[] args) {
 		SpringApplication.run(TestApplication.class, args);
 	}
