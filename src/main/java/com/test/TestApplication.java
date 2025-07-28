@@ -15,6 +15,8 @@ public class TestApplication {
         system.out.println(z);
          int n=22;
         system.out.println(n);
+         int m=33;
+        system.out.println(m);
 	public static void main(String[] args) {
 		SpringApplication.run(TestApplication.class, args);
 	}
