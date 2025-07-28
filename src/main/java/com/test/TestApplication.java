@@ -8,8 +8,11 @@ public class TestApplication {
          system.out.println("hiii");
         int x=20;
         int y=30;
+        system.out.println(x);
+         system.out.println(y);
          system.out.println("sum ="x+y);
          int z=50;
+        system.out.println(z);
 	public static void main(String[] args) {
 		SpringApplication.run(TestApplication.class, args);
 	}
