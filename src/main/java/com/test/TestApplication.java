@@ -5,7 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class TestApplication {
-         system.out.println("hello how are u");
+         system.out.println("who are u");
+         String a="ram";
+         system.out.println("my name is " + a);
 	public static void main(String[] args) {
 		SpringApplication.run(TestApplication.class, args);
 	}
