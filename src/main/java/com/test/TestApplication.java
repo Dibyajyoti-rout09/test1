@@ -10,9 +10,11 @@ public class TestApplication {
         int y=30;
         system.out.println(x);
          system.out.println(y);
-         system.out.println("sum =" + x+y);
+         system.out.println("sum ="x+y);
          int z=50;
         system.out.println(z);
+         int n=22;
+        system.out.println(n);
 	public static void main(String[] args) {
 		SpringApplication.run(TestApplication.class, args);
 	}
