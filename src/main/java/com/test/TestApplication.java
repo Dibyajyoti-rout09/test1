@@ -10,7 +10,7 @@ public class TestApplication {
         int y=30;
         system.out.println(x);
          system.out.println(y);
-         system.out.println("sum ="x+y);
+         system.out.println("sum =" + x+y);
          int z=50;
         system.out.println(z);
 	public static void main(String[] args) {
