@@ -9,6 +9,7 @@ public class TestApplication {
         int x=20;
         int y=30;
          system.out.println("sum ="x+y);
+         int z=50;
 	public static void main(String[] args) {
 		SpringApplication.run(TestApplication.class, args);
 	}
